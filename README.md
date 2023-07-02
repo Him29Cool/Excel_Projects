@@ -5,7 +5,7 @@ This project is based on analysis by using Advance Excel.
 
 **Requirements based on year 2022:**
 
-1- Compare sales and orders using Single chart?
+1- Compare sales and orders using Single chart?<br>
 2- Months got the highest sales and ordres?
 3- Who purchase more Men or Women?
 4- What are different order status?
