@@ -21,5 +21,5 @@ This project is based on analysis by using Advance Excel.<br>
 3- Adult age group (30-49) is most contributing.(50%)<br>
 4- Amazon, Flipkart and Myntra channels are most contributing.(80%)<br>
 
-**Final conclusion is that try to target age group of (30-49) and are like  Maharashtra, Uttar Pradesh & Karnataka and give them gift broachers, Coupons & offers.**
+**Final conclusion is that try to target age group of (30-49) and places like  Maharashtra, Uttar Pradesh & Karnataka and give them gift broachers, Coupons & offers.**
 
